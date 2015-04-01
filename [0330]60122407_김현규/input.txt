@@ -1,0 +1,8 @@
+usr1 psw1
+usr2 psw2
+usr3 psw3
+usr4 psw4
+usr5 psw5
+usr6 psw6
+usr7 psw7
+usr8 psw8
